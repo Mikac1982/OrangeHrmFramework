@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="117014" started-at="2019-06-18T03:20:06Z" finished-at="2019-06-18T03:22:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="117014" started-at="2019-06-18T03:20:06Z" finished-at="2019-06-18T03:22:03Z">
+      <class name="com.syntax.testcases.AddEmployeePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="setUp" is-config="true" duration-ms="3140" started-at="2019-06-18T03:20:06Z" finished-at="2019-06-18T03:20:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="addEmployee" duration-ms="9540" started-at="2019-06-18T03:20:10Z" data-provider="Emoloyee Data" finished-at="2019-06-18T03:20:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1111.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Dani]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="tearDown" is-config="true" duration-ms="116" started-at="2019-06-18T03:20:19Z" finished-at="2019-06-18T03:20:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="setUp" is-config="true" duration-ms="2506" started-at="2019-06-18T03:20:19Z" finished-at="2019-06-18T03:20:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="addEmployee" duration-ms="9793" started-at="2019-06-18T03:20:22Z" data-provider="Emoloyee Data" finished-at="2019-06-18T03:20:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alex]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Spirs]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2222.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Ben]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="tearDown" is-config="true" duration-ms="148" started-at="2019-06-18T03:20:31Z" finished-at="2019-06-18T03:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="setUp" is-config="true" duration-ms="3239" started-at="2019-06-18T03:20:32Z" finished-at="2019-06-18T03:20:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="addEmployee" duration-ms="10469" started-at="2019-06-18T03:20:35Z" data-provider="Emoloyee Data" finished-at="2019-06-18T03:20:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Almaro]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Alba]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[3333.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Dani]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="tearDown" is-config="true" duration-ms="165" started-at="2019-06-18T03:20:45Z" finished-at="2019-06-18T03:20:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="setUp" is-config="true" duration-ms="2574" started-at="2019-06-18T03:20:45Z" finished-at="2019-06-18T03:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="addEmployee" duration-ms="10690" started-at="2019-06-18T03:20:48Z" data-provider="Emoloyee Data" finished-at="2019-06-18T03:20:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Alvaro]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4444.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Ben]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="tearDown" is-config="true" duration-ms="159" started-at="2019-06-18T03:20:59Z" finished-at="2019-06-18T03:20:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="setUp" is-config="true" duration-ms="2483" started-at="2019-06-18T03:20:59Z" finished-at="2019-06-18T03:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="addEmployee" duration-ms="10813" started-at="2019-06-18T03:21:01Z" data-provider="Emoloyee Data" finished-at="2019-06-18T03:21:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Danilo]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Spirs]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[5555.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Dani]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="tearDown" is-config="true" duration-ms="158" started-at="2019-06-18T03:21:12Z" finished-at="2019-06-18T03:21:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="setUp" is-config="true" duration-ms="2557" started-at="2019-06-18T03:21:12Z" finished-at="2019-06-18T03:21:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="addEmployee" duration-ms="9942" started-at="2019-06-18T03:21:15Z" data-provider="Emoloyee Data" finished-at="2019-06-18T03:21:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dragana]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Alba]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[6666.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Ben]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="tearDown" is-config="true" duration-ms="148" started-at="2019-06-18T03:21:25Z" finished-at="2019-06-18T03:21:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="setUp" is-config="true" duration-ms="2398" started-at="2019-06-18T03:21:25Z" finished-at="2019-06-18T03:21:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="addEmployee" duration-ms="9759" started-at="2019-06-18T03:21:27Z" data-provider="Emoloyee Data" finished-at="2019-06-18T03:21:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Milica]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7777.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Dani]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="tearDown" is-config="true" duration-ms="116" started-at="2019-06-18T03:21:37Z" finished-at="2019-06-18T03:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="setUp" is-config="true" duration-ms="2398" started-at="2019-06-18T03:21:37Z" finished-at="2019-06-18T03:21:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="addEmployee" duration-ms="10212" started-at="2019-06-18T03:21:40Z" data-provider="Emoloyee Data" finished-at="2019-06-18T03:21:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nata]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Spirs]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8888.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Ben]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="tearDown" is-config="true" duration-ms="147" started-at="2019-06-18T03:21:50Z" finished-at="2019-06-18T03:21:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="setUp" is-config="true" duration-ms="2574" started-at="2019-06-18T03:21:50Z" finished-at="2019-06-18T03:21:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addEmployee(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="addEmployee" duration-ms="9920" started-at="2019-06-18T03:21:53Z" data-provider="Emoloyee Data" finished-at="2019-06-18T03:22:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Una]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Alba]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9999.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Ben]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.testcases.AddEmployeePageTest@ae45eb6]" name="tearDown" is-config="true" duration-ms="135" started-at="2019-06-18T03:22:03Z" finished-at="2019-06-18T03:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.syntax.testcases.AddEmployeePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
