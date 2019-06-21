@@ -26,9 +26,11 @@ public class HomePage extends BaseClass {
 	@FindBy(xpath = "//span[text()='Locations']")
 	public WebElement locations;
 
-	@FindBy(xpath = "//i[text()='add']")
-	public WebElement add;
-
+	@FindBy(xpath="//td[@name='listField.name'][3]")
+	public WebElement verifyLoc;
+	
+	
+	
 	public HomePage() {
 		PageFactory.initElements(driver, this);
 	}

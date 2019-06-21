@@ -33,10 +33,15 @@ public class AddLocationPage extends BaseClass{
 	public WebElement saveBtn;
 	
 	@FindBy(xpath="//a[text()='Save']")
-	public WebElement locCheck;
+	public WebElement locSaveBtn;
 	
 	@FindBy(xpath="//li[text()='Locations']")
 	public WebElement locText;
+	
+	@FindBy(xpath = "//i[text()='add']")
+	public WebElement add;
+	
+	
 	
 	
 	public AddLocationPage() {

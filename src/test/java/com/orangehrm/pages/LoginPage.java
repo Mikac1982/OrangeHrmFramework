@@ -6,7 +6,6 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.orangehrm.utils.BaseClass;
 import com.orangehrm.utils.CommonMethods;
-import com.orangehrm.utils.ConfigsReader;
 
 public class LoginPage extends BaseClass{
 
